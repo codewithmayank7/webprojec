@@ -1,0 +1,22 @@
+{
+    "params":{
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/codewith_mayank",
+        "prod_uri":"mysql://root:@localhost/codewith_mayank",
+        "fb_url":"https://facebook.com/Mayank Pal",
+        "tw_url":"https://twitter.com/@mayank_code",
+        "gh_url":"https://github.com/codewithmayank",
+        "blog_name":"Code With Mayank",
+        "tag_line":"A website for coders",
+        "gmail-user":"mayankpal20007@gmail.com",
+        "gmail-password":"mayankpal98762439876243",
+        "about_text":"Hi,My name is Mayank.I study in class 9 and I am 14 years old.I live in India(Uttar Pradesh) at a village in Kanpur Dehat district.I have been coding since 2020. I know python,javascript and  I have temporarily used C++ for game developement. ",
+        "no_of_posts":2,
+        "login_image":"login.svg",
+        "admin_user":"mayank945121",
+        "admin_password":"9876243mayank",
+        "upload_location":"C:\\Users\\MRX\\Desktop\\website project\\static"
+
+
+    }
+}

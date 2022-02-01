@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mayank is moving forward</title>
+</head>
+<body>
+    <header>
+        welcome to my website
+    </header>
+    <main>
+        <p>hi my name is mayank pal</p>
+        <section>
+            <a href="https://google.com" target="_main">
+                <img src="img/mayank.jpg" width="765" alt="what the fuck"> harry ki website</a>
+        <div>
+            hi my name is mayank
+            <!-- block element means puri jagah gherene wale -->
+        </div>
+        <span>
+            <!-- remember not to put block element inside in line otherwise it will behave like block
+            for ex don't use paragraph -->
+            <!-- i line elements matlab jitni jagah chayiye uyni li -->
+            i am span mother fucker
+        </span>
+        </section>
+    </main>
+    <footer>
+        the website ended
+    </footer>
+</body>
+</html>
